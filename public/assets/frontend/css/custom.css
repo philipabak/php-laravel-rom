@@ -1,0 +1,50 @@
+/* Border Radius */
+.radius-5{
+    border-radius: 5px!important;
+}
+
+.radius-10{
+    border-radius: 10px!important;
+}
+.radius-15{
+    border-radius: 15px!important;
+}
+.radius-20{
+    border-radius: 20px!important;
+}
+
+.messageList:hover{
+    border-bottom: solid 3px green!important;
+}
+
+#message_content{
+    height: 250px;
+    display: inline-block;
+    overflow-y: auto;
+}
+
+.file_title:hover{
+    color: #39b54a;
+}
+
+.color_grey{
+    color: grey;
+}
+
+.color_green{
+    color: green;
+}
+
+.comment_header span{
+    font-size: 12pt;
+    margin-left: 10px;
+}
+
+.comment_content p{
+    margin-left: 20px;
+}
+
+.custom_row{
+    margin-right: 0px;
+    margin-left: 20px;
+}

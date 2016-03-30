@@ -1,0 +1,119 @@
+/*
+
+/* These styles have been placed here for as 
+ * they have a high chance of needing to be
+ * changed if one decides to modify the header
+-----------------------------------------------*/
+/* Header button states - text colors */
+.navbar-menus > div > button:focus {
+  color: #666; }
+
+.navbar-menus > div > button:hover {
+  color: #333; }
+
+/* Place your custom styles or styles which 
+ * have been generated with the customization 
+ * tool below this line. 
+-----------------------------------------------*/
+
+.navbar-menus > div > button:focus {
+    color: #666;
+}
+.navbar-menus > div > button:hover {
+    color: #333;
+}
+#settings_menu {
+    color: rgb(53, 181, 215);
+}
+#language_menu a > span {
+    color: rgb(53, 181, 215);
+}
+#language_menu a > i {
+    color: rgb(53, 181, 215);
+}
+#toggle_sidemenu_l {
+    color: rgb(53, 181, 215);
+}
+.navbar-menus > .btn-group > button {
+    color: rgb(102, 102, 102);
+}
+.navbar-menus > .btn-group > button:hover {
+    color: rgb(53, 181, 215);
+}
+.navbar-menus > .btn-group > button > b {
+    background-color: rgb(233, 66, 22);
+    background-image: none;
+    border-color: rgb(245, 99, 51);
+    color: rgb(240, 240, 240);
+}
+.navbar-divider {
+    border-color: rgb(53, 181, 215);
+}
+.navbar-menus .btn-group {
+    border-color: rgb(53, 181, 215);
+}
+.user-info {
+    background: none repeat scroll 0 0 rgb(240, 240, 240);
+    border-top-color: rgb(232, 232, 232);
+}
+.user-divider {
+    display: none;
+}
+.user-info .media-heading {
+    color: rgb(53, 181, 215);
+}
+#sidebar_left {
+    background: none repeat scroll 0 0 rgb(240, 240, 240);
+}
+#sidebar_left:before {
+    background: none repeat scroll 0 0 rgb(240, 240, 240);
+}
+.sidebar-menu ul.sub-nav {
+    background: none repeat scroll 0 0 rgb(255, 255, 255);
+}
+ul.sidebar-nav > li.active .sidebar-title {
+    color: rgb(53, 181, 215);
+}
+ul.sidebar-nav > li > a .glyphicons {
+    color: rgb(102, 102, 102);
+}
+.sidebar-menu > ul > li.active > a > span:nth-child(1) {
+    color: rgb(53, 181, 215);
+}
+.sidebar-menu > ul > li.active > a {
+    color: rgb(53, 181, 215);
+}
+.sidebar-menu > ul > li.active ul li.active > a {
+    color: rgb(53, 181, 215);
+}
+ul.sidebar-nav ul.sub-nav > li.active a {
+    color: rgb(53, 181, 215);
+}
+.sidebar-menu ul.sub-nav > li.active > a > span:nth-child(1) {
+    color: rgb(53, 181, 215);
+}
+ul.sidebar-nav > li > a span.caret {
+    color: rgb(119, 119, 119);
+}
+.sidebar-menu > ul > li > a > span:nth-child(1) {
+    border-color: rgb(232, 232, 232);
+}
+.panel-heading {
+    background-color: rgb(240, 240, 240);
+    background-image: none;
+}
+.panel-heading .panel-title .glyphicon {
+    color: rgb(102, 102, 102);
+}
+.panel-title {
+    color: rgb(50, 50, 50);
+}
+.panel {
+    background-color: rgb(255, 255, 255);
+    background-image: none;
+    box-shadow: 0 1px 1px rgba(255, 255, 255, 1), 0 -1px 1px rgba(255, 255, 255, 0.05);
+}
+#main {
+    background-color: rgb(232, 232, 232);
+    background-image: none;
+}
